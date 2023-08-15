@@ -6,9 +6,11 @@
 
 ~This project aims to clone the basic user interface of YouTube using React Native. It has been styled with Tailwind CSS and screen navigation is handled using React Navigation.
 
-![YouTube UI Klonu](ss/ss.png)
-![YouTube UI Klonu](ss2/ss2.png)
-![YouTube UI Klonu](ss/ss3.png)
+
+
+<img src="ss/ss.png" alt="YouTube UI Klonu" width="300" height="760">
+<img src="ss/ss2.png" alt="YouTube UI Klonu" width="300" height="760">
+<img src="ss/ss3.png" alt="YouTube UI Klonu" width="300" height="760">
 
 
 
